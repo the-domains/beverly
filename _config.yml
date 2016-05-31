@@ -1,0 +1,28 @@
+name: Beverly
+favicon: null
+layout_spectrum: 0.24809928331524134
+typography_spectrum: 0.26071450882591307
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6996664882171899
+  lightness: 0.9641483991872519
+  saturation: 0.669967305380851
+  rhythmicContrast: 0.5068967656698078
+purpose: []
